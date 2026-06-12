@@ -108,6 +108,10 @@ Use forecasting models for demand prediction, inventory planning, and proactive 
 **Build Real-Time Monitoring**
 Integrate real-time supply chain tracking for faster operational visibility and quicker business response.
 
+Author
+
+Sanjaykumar Retail Business Analytics Project Power BI | DAX | Retail Strategy | Data-Driven Decision Making
+
 
 **Key Skills Demonstrated**
 
